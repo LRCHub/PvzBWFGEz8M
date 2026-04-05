@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "トーキョーゲットー",
   "base_artist": "Eve",
-  "createdAt": "2026-01-07T07:57:37.158485Z",
+  "createdAt": "2026-04-05T10:55:10.116200Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -107,6 +107,15 @@
       "artist": "Eve",
       "has_synced": false,
       "path": "select/pl_01_トーキョーゲットー_Eve.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "トーキョーゲットー",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/localdb_01_トーキョーゲットー_Eve.lrc",
+      "repo_name": "PvzBWFGEz8M"
     }
   ]
 }
